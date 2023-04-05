@@ -1,4 +1,4 @@
 {
-    "testRepo": "signup-form-testcases",
-    "pathToFile": "__tests__/App.test.js"
+    "testRepo": "signup-form-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
